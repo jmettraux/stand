@@ -1,7 +1,7 @@
 
-# Paolo's website
+# stand dev
 
-Paolo's website
+A blog about stand development.
 
 ## licenses
 
