@@ -2361,9 +2361,14 @@ a .icon-rotate-90:before, a .icon-rotate-180:before, a .icon-rotate-270:before, 
 /* line 9, ../_scss/site.scss */
 body {
   font-size: 16px;
+  line-height: 19px;
+  font-family: "Helvetica Neue", Helvetica;
+  background: url(/images/roll.jpg) repeat-y;
+  background-position: 807px 0;
+  background-size: 60px auto;
 }
 
-/* line 13, ../_scss/site.scss */
+/* line 19, ../_scss/site.scss */
 a.home {
   display: block;
   margin-top: 1em;
@@ -2371,54 +2376,61 @@ a.home {
   text-decoration: none;
   opacity: 0.4;
 }
-/* line 19, ../_scss/site.scss */
+/* line 25, ../_scss/site.scss */
 a.home:visited {
   color: black;
 }
-/* line 20, ../_scss/site.scss */
+/* line 26, ../_scss/site.scss */
 a.home:active {
   color: black;
 }
-/* line 21, ../_scss/site.scss */
+/* line 27, ../_scss/site.scss */
 a.home:link {
   color: black;
 }
-/* line 22, ../_scss/site.scss */
+/* line 28, ../_scss/site.scss */
 a.home:hover {
   color: blue;
 }
 
-/* line 25, ../_scss/site.scss */
+/* line 31, ../_scss/site.scss */
 h1 {
   font-size: 200%;
   margin-top: 1em;
   margin-bottom: 0.5em;
 }
-/* line 29, ../_scss/site.scss */
+/* line 35, ../_scss/site.scss */
 h1 .date, h1 .nav {
   font-size: 50%;
   opacity: 0.5;
 }
 
-/* line 34, ../_scss/site.scss */
+/* line 40, ../_scss/site.scss */
 h2 {
   font-size: 150%;
   margin-top: 1em;
   margin-bottom: 0.5em;
 }
 
-/* line 40, ../_scss/site.scss */
+/* line 46, ../_scss/site.scss */
 p {
   margin-top: 0.3em;
 }
 
-/* line 44, ../_scss/site.scss */
-.content {
-  width: 90%;
-  margin: auto;
+/* line 50, ../_scss/site.scss */
+ul {
+  list-style-type: disc;
+  list-style-position: inside;
+  list-style-image: none;
 }
 
-/* line 49, ../_scss/site.scss */
+/* line 58, ../_scss/site.scss */
+.content {
+  width: 700px;
+  margin-left: 100px;
+}
+
+/* line 63, ../_scss/site.scss */
 .cr {
   margin-top: 2em;
   opacity: 0.4;

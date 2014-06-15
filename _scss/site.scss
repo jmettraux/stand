@@ -8,6 +8,12 @@ $FontAwesomePath: "/fonts" !default;
 
 body {
   font-size: 16px;
+  line-height: 19px;
+  font-family: "Helvetica Neue", Helvetica;
+
+  background: url(/images/roll.jpg) repeat-y;
+  background-position: 807px 0;
+  background-size: 60px auto;
 }
 
 a.home {
@@ -41,9 +47,17 @@ p {
   margin-top: 0.3em;
 }
 
+ul {
+  list-style-type: disc;
+  list-style-position: inside;
+  list-style-image: none;
+}
+li {
+}
+
 .content {
-  width: 90%;
-  margin: auto;
+  width: 700px;
+  margin-left: 100px;
 }
 
 .cr {

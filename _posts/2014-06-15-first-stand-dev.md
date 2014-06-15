@@ -3,6 +3,8 @@ layout: post
 title: first stand dev
 ---
 
+<img src="/images/bathroom.jpg" align="right" style="width: 30%;" />
+
 * Air temperature 28 celsius.
 * 3 rolls : tri-x, acros and presto.
 * Soaked with tap water.
