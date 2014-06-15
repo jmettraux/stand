@@ -74,3 +74,9 @@ task :kss do
   sh('find . -name .sass-cache | xargs rm -fR')
 end
 
+desc "uploads the website"
+task :u => :build do
+
+  sh('time rsync -azvhe ssh _site/* lin:www/stand/')
+end
+
