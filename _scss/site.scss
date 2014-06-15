@@ -1,0 +1,53 @@
+
+@import "compass/reset";
+@import "compass/css3";
+
+$FontAwesomePath: "/fonts" !default;
+//
+@import "font-awesome";
+
+body {
+  font-size: 16px;
+}
+
+a.home {
+  display: block;
+  margin-top: 1em;
+  font-size: 120%;
+  text-decoration: none;
+  opacity: 0.4;
+  &:visited { color: black; }
+  &:active { color: black; }
+  &:link { color: black; }
+  &:hover { color: blue; }
+}
+
+h1 {
+  font-size: 200%;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  .date, .nav {
+    font-size: 50%;
+    opacity: 0.5;
+  }
+}
+h2 {
+  font-size: 150%;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin-top: 0.3em;
+}
+
+.content {
+  width: 90%;
+  margin: auto;
+}
+
+.cr {
+  margin-top: 2em;
+  opacity: 0.4;
+}
+

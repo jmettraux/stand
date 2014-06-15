@@ -1,0 +1,26 @@
+---
+layout: site
+---
+
+<a class="home" href="/">stand dev</a>
+
+<h1>{{ page.title }}
+  <span class="date">
+    {{ page.date | date: '%Y-%m-%d' }}
+  </span>
+  <span class="nav">
+    {% if page.comments %}
+      <a href="{{ page.comments }}">comments</a>
+    {% endif %}
+  </span>
+</h1>
+
+<div class="post">
+
+  {{ content }}
+
+  <div class="cr">
+    &copy; 2014-2014 jmettraux+stand@gmail.com
+  </div>
+</div>
+
