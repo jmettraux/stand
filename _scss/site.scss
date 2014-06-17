@@ -16,16 +16,17 @@ body {
   background-size: 60px auto;
 }
 
-a.home {
-  display: block;
+.home {
   margin-top: 1em;
   font-size: 120%;
-  text-decoration: none;
   opacity: 0.4;
-  &:visited { color: black; }
-  &:active { color: black; }
-  &:link { color: black; }
-  &:hover { color: blue; }
+  position: relative;
+  cursor: pointer;
+  .icon {
+    display: none;
+    position: absolute;
+    left: -1.3em;
+  }
 }
 
 .post-link {

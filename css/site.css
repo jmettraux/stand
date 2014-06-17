@@ -2369,87 +2369,77 @@ body {
 }
 
 /* line 19, ../_scss/site.scss */
-a.home {
-  display: block;
+.home {
   margin-top: 1em;
   font-size: 120%;
-  text-decoration: none;
   opacity: 0.4;
+  position: relative;
+  cursor: pointer;
 }
 /* line 25, ../_scss/site.scss */
-a.home:visited {
-  color: black;
-}
-/* line 26, ../_scss/site.scss */
-a.home:active {
-  color: black;
-}
-/* line 27, ../_scss/site.scss */
-a.home:link {
-  color: black;
-}
-/* line 28, ../_scss/site.scss */
-a.home:hover {
-  color: blue;
+.home .icon {
+  display: none;
+  position: absolute;
+  left: -1.3em;
 }
 
-/* line 31, ../_scss/site.scss */
+/* line 32, ../_scss/site.scss */
 .post-link {
   font-size: 110%;
   padding: 0px 5px;
 }
 
-/* line 36, ../_scss/site.scss */
+/* line 37, ../_scss/site.scss */
 h1 {
   font-size: 200%;
   margin-top: 1em;
   margin-bottom: 0.5em;
 }
-/* line 40, ../_scss/site.scss */
+/* line 41, ../_scss/site.scss */
 h1 .date, h1 .nav {
   font-size: 50%;
   opacity: 0.5;
 }
 
-/* line 45, ../_scss/site.scss */
+/* line 46, ../_scss/site.scss */
 h2 {
   font-size: 150%;
   margin-top: 1em;
   margin-bottom: 0.5em;
 }
 
-/* line 50, ../_scss/site.scss */
+/* line 51, ../_scss/site.scss */
 h3 {
   font-size: 130%;
   margin-top: 0.9em;
   margin-bottom: 0.5em;
 }
 
-/* line 56, ../_scss/site.scss */
+/* line 57, ../_scss/site.scss */
 p {
   margin-top: 0.35em;
 }
 
-/* line 60, ../_scss/site.scss */
+/* line 61, ../_scss/site.scss */
 ul {
   list-style-type: disc;
   list-style-position: inside;
   list-style-image: none;
 }
 
-/* line 68, ../_scss/site.scss */
+/* line 69, ../_scss/site.scss */
 .content {
   width: 700px;
   margin-left: 100px;
 }
 
-/* line 73, ../_scss/site.scss */
+/* line 74, ../_scss/site.scss */
 .cr {
   margin-top: 2em;
   opacity: 0.4;
 }
 
-/* line 78, ../_scss/site.scss */
+/* line 79, ../_scss/site.scss */
 .excerpt {
   margin-top: 0.3em;
   opacity: 0.4;

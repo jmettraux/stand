@@ -2,7 +2,9 @@
 layout: site
 ---
 
-<a class="home" href="/">stand dev</a>
+<div class="home">
+  stand dev<span class="icon icon-chevron-left" />
+</div>
 
 <h1><span class="icon icon-film" \> {{ page.title }}
   <span class="date">
@@ -23,4 +25,13 @@ layout: site
     &copy; 2014-2014 jmettraux+stand@gmail.com
   </div>
 </div>
+
+<script>
+  $('.home').on('mouseenter', function(ev) {
+    $(ev.target).closest('.home').find('.icon').show();
+  });
+  $('.home').on('click', function(ev) {
+    window.location.href = '/';
+  });
+</script>
 
