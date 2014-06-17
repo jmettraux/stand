@@ -22,8 +22,8 @@ title: first stand dev
 
 ### Problems
 
-* I had troubles inserting the very first film while in the changing bag. It resulted in a few inelegant folds on the film, but nothing serious.
-* I tried to insert the film (presto) in its shortage sheet a bit early, it was not entirely dry. Somehow the storage plastic got stained and sticky. I threw it away an inserted the film in a new sheet when it got really dry.
+* I had troubles inserting the very first film while in the changing bag. It resulted in a few inelegant folds on the film, but nothing serious (and my pictures aren't good anyway).
+* I tried to insert the film (presto) in its shortage sheet a bit early, it was not entirely dry. Somehow the storage plastic got stained and sticky. I threw it away and inserted the film in a new sheet when it dried for good.
 
 ### Considerations
 
