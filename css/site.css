@@ -2437,9 +2437,10 @@ ul {
 .cr {
   margin-top: 2em;
   opacity: 0.4;
+  margin-bottom: 1.5em;
 }
 
-/* line 79, ../_scss/site.scss */
+/* line 80, ../_scss/site.scss */
 .excerpt {
   margin-top: 0.3em;
   opacity: 0.4;

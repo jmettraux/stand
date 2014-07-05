@@ -16,7 +16,7 @@ title: first stand dev
 * Stopped with tap water.
 * Fixed with Rollei RXN (not RXA), 900 ml water + 100 ml RXN.
 * Rinsed with tap water.
-* wiped the water with one of those gum thinggy.
+* Wiped the water with one of those gum thinggy.
 
 * Paterson PTP116, with 3 PTP119. Yes, plastic.
 
