@@ -4,7 +4,7 @@ title: second stand dev
 ---
 
 <img
-  style="float: left; margin-right: 0.7em; margin-bottom: 0.5em;"
+  class="top-left"
   src="/images/statue.jpg"
 />
 

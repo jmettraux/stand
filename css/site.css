@@ -2447,3 +2447,11 @@ ul {
   cursor: pointer;
   margin-bottom: 1.4em;
 }
+
+/* line 87, ../_scss/site.scss */
+img.top-left {
+  float: left;
+  margin-right: 0.7em;
+  margin-bottom: 0.5em;
+  border: 0px;
+}
