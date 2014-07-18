@@ -27,6 +27,7 @@ The water used to soak the negatives came out colorless (no HP5 this time, I gue
 ### Problems
 
 * More stickiness problems, could be a lack of drying, especially with 60% to 75% humidity, but I discussed my recipe with [Tony](http://tg.lambda.io) and he explained to me how he rinsed. I only rinse for 5 minutes, he rinses for 20 minutes, tank inclined with a gentle water flow. I'm going to follow his advice for the next stand dev. I hope that a careful rinsing will make the sticky stuff on the emulsion side go away.
+* Another trick from Tony: a tiny drop of dish cleaning product in the initial rinse water. I've seen this trick given countless times, always mentioning the product names (Tony was recommending something like "froggy", can't remember the exact name). I'll do with whatever I use to clean the dishes at home.
 
 ### Considerations
 
