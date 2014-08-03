@@ -14,7 +14,10 @@ gem 'compass'
 #s.add_dependency("rdiscount",  "= 1.6.8")
 #s.add_dependency("redcarpet",  "= 2.3.0")
 
-gem 'jekyll', '1.2.1'
-gem 'RedCloth', '4.2.9'
-gem 'redcarpet',  '2.3.0'
+gem 'jekyll', '2.2.0'
+gem 'RedCloth'#, '4.2.9'
+gem 'redcarpet'#,  '2.3.0'
+
+gem 'therubyracer'
+  # for execjs
 

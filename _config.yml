@@ -2,7 +2,7 @@
 # github's jekyll override
 #safe: true
 lsi: false
-pygments: true
+highlighter: pygments
 
 # here
 permalink: /:year-:month-:day-:title.html
