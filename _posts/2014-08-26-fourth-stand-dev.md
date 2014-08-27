@@ -17,7 +17,7 @@ title: fourth stand dev
 * Soaked with tap water (from 2045 to 2052)
 * Rodinal (R09) 1:200 (1 liter water + 5ml Rodinal), 2 hours (from 2052 to 2253)
 * Stopped with tap water (5 minutes)
-* Fixed with Rollei RXN (not RXA) (5 minutes), 900 ml water + 100 ml RXN (3rd usage)
+* Fixed with Rollei RXN (not RXA) (5 minutes), 900 ml water + 100 ml RXN (4th usage)
 * First rinse with a drop of soap dish in the tap water
 * Rinsed with tap water, 15 minutes with the tank at 20 degrees, tap water flowing in and out
 * Wiped the water with one of those gum thinggy
@@ -33,7 +33,7 @@ The water used to soak the negatives came out blue, probably the tabular Kodak t
 
 ### Considerations
 
-I think I'm getting the hand of the technique. Still need a lot of practice but I like it a lot. I can make incremental changes, hopefully each in the right direction.
+I think I'm getting the hang of the technique. Still need a lot of practice but I like it a lot. I can make incremental changes, hopefully each in the right direction.
 
 ### Output
 
