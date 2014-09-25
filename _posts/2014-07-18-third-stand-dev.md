@@ -5,7 +5,7 @@ title: third stand dev
 
 <a href="https://www.flickr.com/photos/jmettraux/14664744145/"><img
   class="top-left"
-  src="/images/river_wall.jpg"
+  src="/images/stand3_river.jpg"
 /></a>
 
 ### Details

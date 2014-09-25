@@ -5,7 +5,7 @@ title: second stand dev
 
 <img
   class="top-left"
-  src="/images/statue.jpg"
+  src="/images/stand2_statue.jpg"
 />
 
 ### Details
