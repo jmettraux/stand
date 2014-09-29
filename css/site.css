@@ -2435,12 +2435,13 @@ ul {
 
 /* line 74, ../_scss/site.scss */
 .cr {
-  margin-top: 2em;
-  opacity: 0.4;
+  margin-top: 2.5em;
+  font-size: 90%;
+  opacity: 0.3;
   margin-bottom: 1.5em;
 }
 
-/* line 80, ../_scss/site.scss */
+/* line 81, ../_scss/site.scss */
 .excerpt {
   margin-top: 0.3em;
   opacity: 0.4;
@@ -2448,10 +2449,16 @@ ul {
   margin-bottom: 1.4em;
 }
 
-/* line 87, ../_scss/site.scss */
+/* line 88, ../_scss/site.scss */
 img.top-left {
   float: left;
   margin-right: 0.7em;
   margin-bottom: 0.5em;
   border: 0px;
+}
+
+/* line 94, ../_scss/site.scss */
+img.single {
+  width: 100%;
+  margin-bottom: 1em;
 }
