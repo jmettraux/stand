@@ -2431,9 +2431,10 @@ ul {
 .content {
   width: 700px;
   margin-left: 100px;
+  margin-bottom: 2em;
 }
 
-/* line 74, ../_scss/site.scss */
+/* line 75, ../_scss/site.scss */
 .cr {
   margin-top: 2.5em;
   font-size: 90%;
@@ -2441,7 +2442,7 @@ ul {
   margin-bottom: 1.5em;
 }
 
-/* line 81, ../_scss/site.scss */
+/* line 82, ../_scss/site.scss */
 .excerpt {
   margin-top: 0.3em;
   opacity: 0.4;
@@ -2449,7 +2450,7 @@ ul {
   margin-bottom: 1.4em;
 }
 
-/* line 88, ../_scss/site.scss */
+/* line 89, ../_scss/site.scss */
 img.top-left {
   float: left;
   margin-right: 0.7em;
@@ -2457,7 +2458,7 @@ img.top-left {
   border: 0px;
 }
 
-/* line 94, ../_scss/site.scss */
+/* line 95, ../_scss/site.scss */
 img.single {
   margin-bottom: 1em;
 }
